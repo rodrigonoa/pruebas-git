@@ -7,6 +7,7 @@
     <title>Rodrigo</title>
 </head>
 <body>
-    <h1>Probando</h1>
+    <h1>INICIO DE SESION</h1>
+    <BUtton>INGRESAR</BUtton>
 </body>
 </html>
